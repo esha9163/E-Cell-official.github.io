@@ -4,10 +4,20 @@
    .header_area .navbar .search {
 		margin-left: 40px;
 	}
+    .header_area .navbar {
+		background-image: -moz-linear-gradient( 0deg, black 0%, rgb(155,92,246) 100%);
+		background-image: -webkit-linear-gradient( 0deg, black 0%, rgb(155,92,246) 100%);
+		background-image: -ms-linear-gradient(0deg, black 0%, rgb(155,92,246) 100%);
+	}
 	/* End Main Menu Area css
 	============================================================================================ */
 }
 @media (max-width:1300px){
+    .header_area .navbar {
+		background-image: -moz-linear-gradient( 0deg, black 0%, rgb(155,92,246) 100%);
+		background-image: -webkit-linear-gradient( 0deg, black 0%, rgb(155,92,246) 100%);
+		background-image: -ms-linear-gradient(0deg, black 0%, rgb(155,92,246) 100%);
+	}
 }
 @media (max-width:1199px){
 	/* Main Menu Area css
@@ -27,6 +37,11 @@
 	.header_area .navbar .tickets_btn {
 		margin-left: 40px;
 	}
+    .header_area .navbar {
+		background-image: -moz-linear-gradient( 0deg, black 0%, rgb(155,92,246) 100%);
+		background-image: -webkit-linear-gradient( 0deg, black 0%, rgb(155,92,246) 100%);
+		background-image: -ms-linear-gradient(0deg, black 0%, rgb(155,92,246) 100%);
+	}
 }
 
 @media (max-width:991px){
@@ -41,9 +56,9 @@
         margin-bottom: 23px;
     }
 	.header_area .navbar {
-		background-image: -moz-linear-gradient( 0deg, rgb(20,29,162) 0%, rgb(155,92,246) 100%);
-		background-image: -webkit-linear-gradient( 0deg, rgb(20,29,162) 0%, rgb(155,92,246) 100%);
-		background-image: -ms-linear-gradient( 0deg, rgb(20,29,162) 0%, rgb(155,92,246) 100%);
+		background-image: -moz-linear-gradient( 0deg, black 0%, rgb(155,92,246) 100%);
+		background-image: -webkit-linear-gradient( 0deg, black 0%, rgb(155,92,246) 100%);
+		background-image: -ms-linear-gradient(0deg, black 0%, rgb(155,92,246) 100%);
 	}
     .navbar-toggler[aria-expanded="false"] span:nth-child(2) {
 		opacity: 1;
