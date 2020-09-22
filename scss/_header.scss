@@ -133,7 +133,8 @@
 			right: 0;
 			background-image: -moz-linear-gradient( 0deg, black 0%, black 100%);
 			background-image: -webkit-linear-gradient( 0deg, black 0%, black 100%);
-			background-image: -ms-linear-gradient( 0deg, black 0%, black 100%);
+            background-image: -ms-linear-gradient( 0deg, black 0%, black 100%);
+            
 			transform: translateY(70px);
 			transition: transform 500ms ease, background 500ms ease;
 			-webkit-transition: transform 500ms ease, background 500ms ease;
