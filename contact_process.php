@@ -1,6 +1,6 @@
 <?php
 
-    $to = "carolseb80@gmail.com";
+    $to = "ecell.frcrce@gmail.com";
     $from = $_REQUEST['email'];
     $name = $_REQUEST['name'];
     $subject = $_REQUEST['subject'];
@@ -15,7 +15,7 @@
 
     $subject = "You have a message from your Bitmap Photography.";
 
-    $logo = 'img/logonew.png';
+    $logo = 'img/only_logo.png';
     $link = '#';
 
 	$body = "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><title>Express Mail</title></head><body>";

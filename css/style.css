@@ -421,7 +421,7 @@ button:focus {
 #hero {
   width: 100%;
   height: 60vh;
-  background: url("../img/background/bulbx.jpg") center;
+  background: url("../img/background/stars.jpg") center;
   background-size: cover;
   position: relative;
   z-index: 1;
@@ -4931,7 +4931,7 @@ height:100%;
 
 
 .parallax2{
-  background: url("../img/background/bulbxx.jpg") no-repeat center;
+  background: url("../img/background/stars.jpg") no-repeat center;
   -webkit- background-size: cover;
   -moz- background-size: cover;
   -o- background-size: cover;
